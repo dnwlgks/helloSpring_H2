@@ -1,0 +1,18 @@
+@CHARSET "EUC-KR";
+
+.formtable{
+	width:700px;
+	border:1px solid blue;
+	margin: 50px;
+	padding:20px;
+}
+.label{
+	text-align:right;
+	vertical-align:top;
+}
+.control{
+	 margin-left:20px;
+}
+input[type=text]{
+	width:300px;
+}
